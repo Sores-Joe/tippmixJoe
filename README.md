@@ -1,12 +1,13 @@
-# Tippmix Pro 5.0 – TippmixPro-központú változat
+# Tippmix Pro 5.1 – TippmixPro-központú piaci összehasonlítás
 
-A fogadás kizárólag a TippmixPro.hu oldalon történik. A külső oddsok kizárólag piaci összehasonlításra használhatók, **nem** TippmixPro-oddsok.
+Újdonság: **TippmixPro vs. nemzetközi piac · 1X2**. A rendszer a `data/live.json` külső oddsadatainak legalább két teljes 1X2 piacából árrésmentesített átlagos valószínűséget számol, és ezt a felhasználó által a TippmixPro.hu-n kézzel ellenőrzött oddsszal veti össze.
 
-## Frissítés
-A meglévő 4.1-es GitHub Pages projektben az `index.html`, `sw.js` és `README.md` fájlokat cseréld. A `scripts`, `data`, `.github` mappákhoz nem kell nyúlni. Telepítés előtt exportáld a helyi JSON mentést.
+A mutató **piaci proxy**, nem független valószínűségmodell, nem validált EV és nem fogadási ajánlás. A külső oddsok sosem kerülnek automatikusan TippmixPro-szelvényre. Nincs hivatalos TippmixPro API-kapcsolat.
 
-## Szelvényvédelem
-A virtuális szelvényhez csak `TippmixPro.hu – kézzel ellenőrzött` forrásmegjelölésű, legfeljebb két órája ellenőrzött és még el nem kezdődött esemény kerülhet. Az adatokat a tényleges fogadás előtt ismét ellenőrizni kell a TippmixPro.hu-n. A külső feed eseményei nem másolhatók közvetlenül a szelvényre.
+## Telepítés meglévő 5.0-ra
+1. Helyi JSON mentés.
+2. Csak `index.html`, `sw.js`, `README.md` cseréje a GitHub repository gyökerében.
+3. A `.github`, `scripts`, `data` mappák megőrzése.
+4. GitHub Pages telepítés után az Elemzés menüben keresd a TippmixPro vs. nemzetközi piac panelt.
 
-## Korlátok
-Nincs hivatalos TippmixPro API-integráció, nincs automatikus TippmixPro-odds, nincs garantált EV vagy nyerési esély. A piaci konszenzus nem független statisztikai modell. A helyi adatok ugyanazzal a localStorage kulccsal maradnak meg.
+A helyi tárolási kulcs változatlan: `tippmixpro-v1`. A statisztikai adatokat továbbra is külön forrásból kell majd integrálni.
