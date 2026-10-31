@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T21:12:26.476767+00:00",
+  "updated_at": "2026-10-31T21:12:40.645674+00:00",
   "events": [
     {
       "sport": "Tenisz",
@@ -7,7 +7,7 @@
       "market": "Győztes: Benjamin Bonzi",
       "odds": 1.8,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -16,7 +16,7 @@
       "market": "Győztes: Benjamin Bonzi",
       "odds": 1.82,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -25,7 +25,7 @@
       "market": "Győztes: Benjamin Bonzi",
       "odds": 1.76,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -52,7 +52,7 @@
       "market": "Győztes: Benjamin Bonzi",
       "odds": 1.87,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -61,7 +61,7 @@
       "market": "Győztes: Yannick Hanfmann",
       "odds": 2.06,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -70,7 +70,7 @@
       "market": "Győztes: Yannick Hanfmann",
       "odds": 1.88,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -79,7 +79,7 @@
       "market": "Győztes: Yannick Hanfmann",
       "odds": 1.81,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -106,7 +106,7 @@
       "market": "Győztes: Yannick Hanfmann",
       "odds": 1.95,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -115,7 +115,7 @@
       "market": "Győztes: Juan Manuel Cerundolo",
       "odds": 1.74,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -142,7 +142,7 @@
       "market": "Győztes: Juan Manuel Cerundolo",
       "odds": 1.7,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -151,7 +151,7 @@
       "market": "Győztes: Juan Manuel Cerundolo",
       "odds": 1.65,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -160,7 +160,7 @@
       "market": "Győztes: Juan Manuel Cerundolo",
       "odds": 1.76,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -169,7 +169,7 @@
       "market": "Győztes: Miomir Kecmanovic",
       "odds": 2.14,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -196,7 +196,7 @@
       "market": "Győztes: Miomir Kecmanovic",
       "odds": 2.03,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -205,7 +205,7 @@
       "market": "Győztes: Miomir Kecmanovic",
       "odds": 1.95,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -214,7 +214,7 @@
       "market": "Győztes: Miomir Kecmanovic",
       "odds": 2.11,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -223,7 +223,7 @@
       "market": "Győztes: Rinky Hijikata",
       "odds": 1.42,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -250,7 +250,7 @@
       "market": "Győztes: Rinky Hijikata",
       "odds": 1.36,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -259,7 +259,7 @@
       "market": "Győztes: Rinky Hijikata",
       "odds": 1.33,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -268,7 +268,7 @@
       "market": "Győztes: Rinky Hijikata",
       "odds": 1.4,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -277,7 +277,7 @@
       "market": "Győztes: Vit Kopriva",
       "odds": 2.96,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -304,7 +304,7 @@
       "market": "Győztes: Vit Kopriva",
       "odds": 2.9,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -313,7 +313,7 @@
       "market": "Győztes: Vit Kopriva",
       "odds": 2.7,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -322,7 +322,7 @@
       "market": "Győztes: Vit Kopriva",
       "odds": 3.07,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -331,7 +331,7 @@
       "market": "Győztes: Sebastian Baez",
       "odds": 4.6,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -358,7 +358,7 @@
       "market": "Győztes: Sebastian Baez",
       "odds": 3.5,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -367,7 +367,7 @@
       "market": "Győztes: Sebastian Baez",
       "odds": 3.85,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -376,7 +376,7 @@
       "market": "Győztes: Sebastian Baez",
       "odds": 4.18,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -385,7 +385,7 @@
       "market": "Győztes: Tomas Machac",
       "odds": 1.21,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -412,7 +412,7 @@
       "market": "Győztes: Tomas Machac",
       "odds": 1.2,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -421,7 +421,7 @@
       "market": "Győztes: Tomas Machac",
       "odds": 1.22,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -430,7 +430,7 @@
       "market": "Győztes: Tomas Machac",
       "odds": 1.25,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -439,7 +439,7 @@
       "market": "Győztes: Mattia Bellucci",
       "odds": 1.52,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -466,7 +466,7 @@
       "market": "Győztes: Mattia Bellucci",
       "odds": 1.5,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -475,7 +475,7 @@
       "market": "Győztes: Mattia Bellucci",
       "odds": 1.46,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -484,7 +484,7 @@
       "market": "Győztes: Mattia Bellucci",
       "odds": 1.53,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -493,7 +493,7 @@
       "market": "Győztes: Thiago Agustin Tirante",
       "odds": 2.59,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:11+00:00",
+      "checked": "2026-10-31T21:12:32+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -520,7 +520,7 @@
       "market": "Győztes: Thiago Agustin Tirante",
       "odds": 2.42,
       "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-10-31T21:10:21+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -529,7 +529,7 @@
       "market": "Győztes: Thiago Agustin Tirante",
       "odds": 2.3,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:36+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -538,7 +538,7 @@
       "market": "Győztes: Thiago Agustin Tirante",
       "odds": 2.65,
       "source": "The Odds API / BetOnline.ag (nem Tippmix)",
-      "checked": "2026-10-31T21:11:27+00:00",
+      "checked": "2026-10-31T21:12:33+00:00",
       "kickoff": "2026-11-01T10:00:00+00:00"
     },
     {
@@ -583,7 +583,7 @@
       "market": "Győztes: Como",
       "odds": 1.26,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -637,7 +637,7 @@
       "market": "Győztes: Como",
       "odds": 1.3,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -718,7 +718,7 @@
       "market": "Győztes: Draw",
       "odds": 6.25,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -772,7 +772,7 @@
       "market": "Győztes: Draw",
       "odds": 5.76,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -853,7 +853,7 @@
       "market": "Győztes: Venezia",
       "odds": 8.0,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -907,7 +907,7 @@
       "market": "Győztes: Venezia",
       "odds": 9.04,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T11:30:00+00:00"
     },
     {
@@ -988,7 +988,7 @@
       "market": "Győztes: Draw",
       "odds": 3.9,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1042,7 +1042,7 @@
       "market": "Győztes: Draw",
       "odds": 3.74,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1123,7 +1123,7 @@
       "market": "Győztes: Frosinone",
       "odds": 2.05,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1177,7 +1177,7 @@
       "market": "Győztes: Frosinone",
       "odds": 2.12,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1258,7 +1258,7 @@
       "market": "Győztes: Torino",
       "odds": 2.95,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1312,7 +1312,7 @@
       "market": "Győztes: Torino",
       "odds": 3.1,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1393,7 +1393,7 @@
       "market": "Győztes: Cagliari",
       "odds": 6.5,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1456,7 +1456,7 @@
       "market": "Győztes: Cagliari",
       "odds": 7.46,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1528,7 +1528,7 @@
       "market": "Győztes: Draw",
       "odds": 4.6,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1591,7 +1591,7 @@
       "market": "Győztes: Draw",
       "odds": 4.44,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1663,7 +1663,7 @@
       "market": "Győztes: Lazio",
       "odds": 1.42,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:42+00:00",
+      "checked": "2026-10-31T21:12:29+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1726,7 +1726,7 @@
       "market": "Győztes: Lazio",
       "odds": 1.42,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-10-31T21:11:40+00:00",
+      "checked": "2026-10-31T21:12:26+00:00",
       "kickoff": "2026-11-01T14:00:00+00:00"
     },
     {
@@ -1762,7 +1762,7 @@
       "market": "Győztes: 1. FC Köln",
       "odds": 2.56,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -1825,7 +1825,7 @@
       "market": "Győztes: 1. FC Köln",
       "odds": 2.56,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -1861,7 +1861,7 @@
       "market": "Győztes: 1. FC Köln",
       "odds": 2.63,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -1897,7 +1897,7 @@
       "market": "Győztes: Draw",
       "odds": 3.52,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -1960,7 +1960,7 @@
       "market": "Győztes: Draw",
       "odds": 3.78,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -1996,7 +1996,7 @@
       "market": "Győztes: Draw",
       "odds": 3.55,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -2032,7 +2032,7 @@
       "market": "Győztes: Union Berlin",
       "odds": 2.79,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -2095,7 +2095,7 @@
       "market": "Győztes: Union Berlin",
       "odds": 2.78,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -2131,7 +2131,7 @@
       "market": "Győztes: Union Berlin",
       "odds": 2.65,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T14:30:00+00:00"
     },
     {
@@ -2167,7 +2167,7 @@
       "market": "Győztes: Draw",
       "odds": 4.65,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2230,7 +2230,7 @@
       "market": "Győztes: Draw",
       "odds": 4.78,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2284,7 +2284,7 @@
       "market": "Győztes: Draw",
       "odds": 4.7,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2302,7 +2302,7 @@
       "market": "Győztes: Eintracht Frankfurt",
       "odds": 1.58,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2365,7 +2365,7 @@
       "market": "Győztes: Eintracht Frankfurt",
       "odds": 1.64,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2419,7 +2419,7 @@
       "market": "Győztes: Eintracht Frankfurt",
       "odds": 1.55,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2437,7 +2437,7 @@
       "market": "Győztes: Hamburger SV",
       "odds": 5.26,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:20+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2500,7 +2500,7 @@
       "market": "Győztes: Hamburger SV",
       "odds": 5.13,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-10-31T21:11:34+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2554,7 +2554,7 @@
       "market": "Győztes: Hamburger SV",
       "odds": 5.5,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:35+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2626,7 +2626,7 @@
       "market": "Győztes: Arsenal",
       "odds": 2.46,
       "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-10-31T21:11:56+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2635,7 +2635,7 @@
       "market": "Győztes: Arsenal",
       "odds": 2.58,
       "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-10-31T21:11:56+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2680,7 +2680,7 @@
       "market": "Győztes: Arsenal",
       "odds": 2.49,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-10-31T21:12:18+00:00",
+      "checked": "2026-10-31T21:12:40+00:00",
       "kickoff": "2026-11-01T16:30:00+00:00"
     },
     {
@@ -2704,7 +2704,7 @@
   ],
   "source": "The Odds API",
   "quota_spent_this_run": 4,
-  "quota_remaining": 496,
+  "quota_remaining": 492,
   "sports_checked": [
     "soccer_epl",
     "soccer_germany_bundesliga",
