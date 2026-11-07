@@ -1,2587 +1,427 @@
 {
-  "updated_at": "2026-11-06T14:23:06.651655+00:00",
+  "updated_at": "2026-11-07T13:12:01.668607+00:00",
   "events": [
     {
       "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.66,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.57,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.5,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:21+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.58,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.6,
-      "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:17+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.58,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.58,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.49,
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.21,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
+      "checked": "2026-11-07T13:10:57+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.57,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.58,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.46,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.61,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.63,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.61,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Luca Van Assche",
-      "odds": 1.49,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.48,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.38,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.4,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:21+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.4,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.47,
-      "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:17+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.45,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.44,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.4,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.38,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.4,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.3,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.33,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.5,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.48,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Luca Van Assche – Rinky Hijikata",
-      "market": "Győztes: Rinky Hijikata",
-      "odds": 2.33,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T14:40:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.33,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.33,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.37,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.28,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
       "odds": 1.31,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.33,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.35,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.36,
-      "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:18+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.34,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
       "odds": 1.26,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.34,
       "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.3,
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.29,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:22+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.26,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:51+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.29,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:23+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.24,
       "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "checked": "2026-11-07T13:09:57+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.33,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
-      "odds": 1.33,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Carlos Alcaraz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
       "odds": 1.28,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.6,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.15,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.39,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "checked": "2026-11-07T13:11:23+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.23,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:52+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.33,
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.27,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:24+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.31,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.29,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.29,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.25,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:49+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Ben Shelton",
+      "odds": 1.28,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-07T13:11:22+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.8,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:57+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 4.1,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.9,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.77,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "checked": "2026-11-07T13:11:22+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.4,
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.9,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:51+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.9,
       "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:18+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
+      "checked": "2026-11-07T13:11:23+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.35,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.0,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.3,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Taylor Fritz – Carlos Alcaraz",
-      "market": "Győztes: Taylor Fritz",
-      "odds": 3.6,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T18:00:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.45,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.4,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.48,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.44,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.33,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.45,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.38,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.43,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.43,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.44,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.43,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.45,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.46,
-      "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:18+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.38,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:21+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Casper Ruud",
-      "odds": 1.46,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.84,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.6,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:20:04+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 3.0,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.75,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.6,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:58+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.8,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.65,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:07+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.8,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.8,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.75,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:41+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.8,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.8,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.9,
-      "source": "The Odds API / Coolbet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:18+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.75,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:21+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Tenisz",
-      "match": "Casper Ruud – Nuno Borges",
-      "market": "Győztes: Nuno Borges",
-      "odds": 2.85,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:44+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 3.11,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.9,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 3.19,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.75,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.85,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:52+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.75,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:28+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.9,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.88,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:47+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 3.14,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 3.0,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 3.15,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.95,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.95,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.95,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Borussia Monchengladbach",
-      "odds": 2.8,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.49,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.25,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.47,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.2,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
       "odds": 3.5,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:52+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:28+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.25,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.33,
       "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:47+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
+      "checked": "2026-11-07T13:09:57+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.42,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.5,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.55,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.4,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.35,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.55,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Draw",
-      "odds": 3.35,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.4,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.3,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.42,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.1,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.25,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:52+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.15,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:28+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.3,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.2,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:47+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.38,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.3,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:03+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.46,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.35,
-      "source": "The Odds API / Nordic Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.35,
-      "source": "The Odds API / Betsson (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.35,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Hamburger SV – Borussia Monchengladbach",
-      "market": "Győztes: Hamburger SV",
-      "odds": 2.25,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T19:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.37,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:55+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.5,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.49,
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.72,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:23+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.45,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:57+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.27,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.0,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:07+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.25,
-      "source": "The Odds API / Everygame (nem Tippmix)",
-      "checked": "2026-11-06T14:19:18+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.15,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:01+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.5,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.25,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.35,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:31+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.44,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:13+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Draw",
-      "odds": 3.15,
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.6,
       "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:52+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 4.0,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:24+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.8,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.6,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.6,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:48+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.8,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:49+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Luca Van Assche – Ben Shelton",
+      "market": "Győztes: Luca Van Assche",
+      "odds": 3.89,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-07T13:11:22+00:00",
+      "kickoff": "2026-11-07T13:30:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 3.24,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:55+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.25,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.18,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.25,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:57+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 2.98,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 2.8,
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 2.95,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:07+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:13+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 3.09,
+      "source": "The Odds API / GTbets (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 3.35,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 3.1,
       "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 3.14,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 2.97,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:09+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 3.15,
       "source": "The Odds API / Everygame (nem Tippmix)",
-      "checked": "2026-11-06T14:19:18+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:08:20+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 2.95,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:01+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.25,
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 3.1,
       "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:38+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 2.85,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:37+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 3.05,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.15,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:31+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
-      "odds": 3.2,
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 2.9,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
+      "odds": 3.22,
       "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:13+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 3.0,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:18+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Udinese",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Cagliari",
       "odds": 2.85,
       "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:41+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.39,
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Draw",
+      "odds": 3.82,
       "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:55+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.37,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.28,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.42,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:57+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.18,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.15,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:07+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.35,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.35,
-      "source": "The Odds API / Everygame (nem Tippmix)",
-      "checked": "2026-11-06T14:19:18+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.18,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:01+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.33,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.23,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.28,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:31+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.33,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:13+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.25,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Venezia – Udinese",
-      "market": "Győztes: Venezia",
-      "odds": 2.15,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T19:45:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.5,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.93,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.8,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.5,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.85,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.0,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.5,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.75,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.8,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 4.85,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.34,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.2,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.4,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.1,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Coventry City",
-      "odds": 5.4,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 3.8,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.21,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.0,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
+      "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
       "odds": 3.6,
       "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 3.85,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 3.95,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.2,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 3.8,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 3.9,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.15,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.01,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.0,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.1,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.0,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Draw",
-      "odds": 4.1,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.56,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.74,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.6,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.55,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.58,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.65,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.71,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.67,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.67,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.71,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.68,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.62,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.68,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.64,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Everton – Coventry City",
-      "market": "Győztes: Everton",
-      "odds": 1.68,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-06T20:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.15,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.57,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.35,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.2,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.23,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.32,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.45,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.48,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.4,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.3,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.4,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Draw",
-      "odds": 3.55,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.6,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.8,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.78,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.7,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.65,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.67,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.74,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.9,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.62,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.7,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.71,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.83,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.8,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.7,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Leeds United",
-      "odds": 2.8,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.35,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:05+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.6,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:50+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.66,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.45,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:51+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.2,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:27+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.35,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:21:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.54,
-      "source": "The Odds API / MyBookie.ag (nem Tippmix)",
-      "checked": "2026-11-06T14:21:12+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.68,
-      "source": "The Odds API / Betfair (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.5,
-      "source": "The Odds API / 888sport (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.5,
-      "source": "The Odds API / William Hill (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.59,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:09+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.61,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.5,
-      "source": "The Odds API / Tipico (nem Tippmix)",
-      "checked": "2026-11-06T14:22:26+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.55,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Leeds United – Tottenham Hotspur",
-      "market": "Győztes: Tottenham Hotspur",
-      "odds": 2.63,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:49+00:00",
-      "kickoff": "2026-11-07T12:30:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.76,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:55+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.6,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:07+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.78,
-      "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.8,
-      "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:57+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.75,
-      "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.82,
-      "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.6,
-      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.6,
-      "source": "The Odds API / Everygame (nem Tippmix)",
-      "checked": "2026-11-06T14:19:18+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.75,
-      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.55,
-      "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:01+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.7,
-      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:31+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.6,
-      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.74,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:13+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.65,
-      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Cagliari",
-      "odds": 2.5,
-      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:08+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Draw",
-      "odds": 3.77,
-      "source": "The Odds API / Pinnacle (nem Tippmix)",
-      "checked": "2026-11-06T14:22:55+00:00",
-      "kickoff": "2026-11-07T14:00:00+00:00"
-    },
-    {
-      "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
-      "market": "Győztes: Draw",
-      "odds": 3.4,
-      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:07+00:00",
+      "checked": "2026-11-07T13:11:13+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
@@ -2590,61 +430,61 @@
       "market": "Győztes: Draw",
       "odds": 3.69,
       "source": "The Odds API / GTbets (nem Tippmix)",
-      "checked": "2026-11-06T14:23:03+00:00",
+      "checked": "2026-11-07T13:11:39+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.8,
+      "odds": 3.85,
       "source": "The Odds API / Matchbook (nem Tippmix)",
-      "checked": "2026-11-06T14:22:57+00:00",
+      "checked": "2026-11-07T13:12:01+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.55,
+      "odds": 3.7,
       "source": "The Odds API / Codere (IT) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
+      "checked": "2026-11-07T13:12:01+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.83,
+      "odds": 3.88,
       "source": "The Odds API / 1xBet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
+      "checked": "2026-11-07T13:11:39+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.43,
+      "odds": 3.6,
       "source": "The Odds API / Betclic (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:42+00:00",
+      "checked": "2026-11-07T13:10:09+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.5,
+      "odds": 3.65,
       "source": "The Odds API / Everygame (nem Tippmix)",
-      "checked": "2026-11-06T14:19:18+00:00",
+      "checked": "2026-11-07T13:08:20+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
       "market": "Győztes: Draw",
-      "odds": 3.8,
+      "odds": 3.9,
       "source": "The Odds API / Unibet (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
+      "checked": "2026-11-07T13:11:38+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
@@ -2653,7 +493,7 @@
       "market": "Győztes: Draw",
       "odds": 3.5,
       "source": "The Odds API / PMU (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:23:01+00:00",
+      "checked": "2026-11-07T13:11:37+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
@@ -2662,49 +502,2209 @@
       "market": "Győztes: Draw",
       "odds": 3.75,
       "source": "The Odds API / Unibet (NL) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:31+00:00",
+      "checked": "2026-11-07T13:12:01+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
       "match": "Cagliari – Frosinone",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Draw",
+      "odds": 3.74,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Draw",
+      "odds": 3.8,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:18+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:41+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.2,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 1.9,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:13+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.2,
+      "source": "The Odds API / GTbets (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.22,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.18,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.28,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.05,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:09+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.15,
+      "source": "The Odds API / Everygame (nem Tippmix)",
+      "checked": "2026-11-07T13:08:20+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.25,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:38+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.1,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:37+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.2,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.14,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.14,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.05,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:18+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Cagliari – Frosinone",
+      "market": "Győztes: Frosinone",
+      "odds": 2.0,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:41+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.59,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.3,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:13+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.69,
+      "source": "The Odds API / GTbets (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.7,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.75,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.5,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:09+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.45,
+      "source": "The Odds API / Everygame (nem Tippmix)",
+      "checked": "2026-11-07T13:08:20+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.85,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:38+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.5,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:37+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
       "market": "Győztes: Draw",
       "odds": 3.55,
       "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:56+00:00",
+      "checked": "2026-11-07T13:12:00+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
+      "match": "Torino – Lecce",
       "market": "Győztes: Draw",
-      "odds": 3.72,
-      "source": "The Odds API / Marathon Bet (nem Tippmix)",
-      "checked": "2026-11-06T14:22:13+00:00",
+      "odds": 3.7,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Draw",
+      "odds": 3.64,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
       "market": "Győztes: Draw",
       "odds": 3.65,
       "source": "The Odds API / Winamax (DE) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:58+00:00",
+      "checked": "2026-11-07T13:11:18+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
     },
     {
       "sport": "Labdarúgás",
-      "match": "Cagliari – Frosinone",
+      "match": "Torino – Lecce",
       "market": "Győztes: Draw",
       "odds": 3.45,
       "source": "The Odds API / Winamax (FR) (nem Tippmix)",
-      "checked": "2026-11-06T14:22:08+00:00",
+      "checked": "2026-11-07T13:11:41+00:00",
       "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 5.03,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.1,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:13+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.39,
+      "source": "The Odds API / GTbets (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 5.1,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.6,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.73,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.35,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:09+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.75,
+      "source": "The Odds API / Everygame (nem Tippmix)",
+      "checked": "2026-11-07T13:08:20+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.5,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:38+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.1,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:37+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.2,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.4,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.6,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.3,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:18+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Lecce",
+      "odds": 4.0,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:41+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.82,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:36+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.65,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:13+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.77,
+      "source": "The Odds API / GTbets (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.83,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.81,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.86,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:39+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.71,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:10:09+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.8,
+      "source": "The Odds API / Everygame (nem Tippmix)",
+      "checked": "2026-11-07T13:08:20+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.83,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:38+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.73,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:37+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.76,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.8,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:12:01+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.81,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:28+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.76,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:18+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Torino – Lecce",
+      "market": "Győztes: Torino",
+      "odds": 1.7,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:41+00:00",
+      "kickoff": "2026-11-07T14:00:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.31,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.3,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.2,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.28,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.22,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.3,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.34,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.25,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.31,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.29,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.29,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.28,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.34,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.31,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Borussia Dortmund",
+      "odds": 1.32,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.21,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.0,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.5,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.25,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.24,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.75,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.65,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 5.65,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.2,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.2,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.15,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 9.38,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.0,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 7.4,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 7.5,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 7.25,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 9.15,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.0,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.8,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.9,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 8.8,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 9.0,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 10.0,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 9.35,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "Borussia Dortmund – Elversberg",
+      "market": "Győztes: Elversberg",
+      "odds": 9.0,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.28,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.18,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.2,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.29,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.18,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.3,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.26,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.25,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.26,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.28,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.25,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.25,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.25,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.29,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Bayern Munich",
+      "odds": 1.28,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.87,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.5,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.4,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.75,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 7.01,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.75,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.4,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.4,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.9,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 7.0,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 7.4,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: Draw",
+      "odds": 6.75,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.3,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 7.4,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 8.75,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 8.4,
+      "source": "The Odds API / Codere (IT) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 7.5,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.65,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 7.25,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.3,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.4,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.5,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 8.0,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 8.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 9.0,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 10.5,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "FSV Mainz 05 – Bayern Munich",
+      "market": "Győztes: FSV Mainz 05",
+      "odds": 8.5,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.34,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.75,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.42,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.3,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.7,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.3,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.8,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 5.4,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.25,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.2,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.2,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.2,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.8,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.4,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Augsburg",
+      "odds": 6.4,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.58,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.0,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.75,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.1,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.8,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.3,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.25,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.6,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.3,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.35,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.5,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.8,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.45,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: Draw",
+      "odds": 5.75,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.44,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.4,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.46,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.3,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.37,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.33,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.4,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.38,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.42,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.4,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.4,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.4,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.46,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:12:00+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.44,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "RB Leipzig – Augsburg",
+      "market": "Győztes: RB Leipzig",
+      "odds": 1.42,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.82,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 4.07,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.85,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.65,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.6,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.96,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.65,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.65,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.7,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.85,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:11:59+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.7,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Draw",
+      "odds": 3.85,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.39,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.25,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.34,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.05,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.15,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.1,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.25,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.22,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.28,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.28,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.28,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.3,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.44,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:11:59+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.43,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: Eintracht Frankfurt",
+      "odds": 2.32,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.91,
+      "source": "The Odds API / Pinnacle (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.75,
+      "source": "The Odds API / 888sport (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.92,
+      "source": "The Odds API / 1xBet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.65,
+      "source": "The Odds API / Unibet (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:56+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.8,
+      "source": "The Odds API / Winamax (DE) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:33+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.65,
+      "source": "The Odds API / Winamax (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:35+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.75,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.68,
+      "source": "The Odds API / Betclic (FR) (nem Tippmix)",
+      "checked": "2026-11-07T13:07:11+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.84,
+      "source": "The Odds API / Marathon Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:10:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.85,
+      "source": "The Odds API / Nordic Bet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.82,
+      "source": "The Odds API / Betsson (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.85,
+      "source": "The Odds API / Tipico (nem Tippmix)",
+      "checked": "2026-11-07T13:11:57+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.98,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-07T13:11:59+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.85,
+      "source": "The Odds API / Coolbet (nem Tippmix)",
+      "checked": "2026-11-07T13:11:06+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
+    },
+    {
+      "sport": "Labdarúgás",
+      "match": "SC Paderborn – Eintracht Frankfurt",
+      "market": "Győztes: SC Paderborn",
+      "odds": 2.85,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-07T13:11:32+00:00",
+      "kickoff": "2026-11-07T14:30:00+00:00"
     }
   ],
   "source": "The Odds API",
   "quota_spent_this_run": 4,
-  "quota_remaining": 476,
+  "quota_remaining": 472,
   "sports_checked": [
     "soccer_epl",
     "soccer_germany_bundesliga",
