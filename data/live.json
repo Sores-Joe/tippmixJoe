@@ -1,12 +1,626 @@
 {
-  "updated_at": "2026-11-09T16:30:15.521742+00:00",
-  "events": [],
+  "updated_at": "2026-11-10T14:58:39.483319+00:00",
+  "events": [
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.6,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.54,
+      "source": "The Odds API / BetAnything (nem Tippmix)",
+      "checked": "2026-11-10T14:58:40+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.54,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.56,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.56,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.49,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.56,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.57,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Jessica Pegula",
+      "odds": 1.57,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.62,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.55,
+      "source": "The Odds API / BetAnything (nem Tippmix)",
+      "checked": "2026-11-10T14:58:40+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.56,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.43,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.43,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.33,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.43,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.6,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Marta Kostyuk – Jessica Pegula",
+      "market": "Győztes: Marta Kostyuk",
+      "odds": 2.38,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.63,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.59,
+      "source": "The Odds API / BetAnything (nem Tippmix)",
+      "checked": "2026-11-10T14:58:40+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.59,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.56,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.56,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.5,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.56,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.64,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Coco Gauff",
+      "odds": 1.57,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.54,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.45,
+      "source": "The Odds API / BetAnything (nem Tippmix)",
+      "checked": "2026-11-10T14:58:40+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.44,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.43,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.43,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.32,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.43,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.44,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Coco Gauff – Linda Noskova",
+      "market": "Győztes: Linda Noskova",
+      "odds": 2.38,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-10T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.36,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.4,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.23,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.23,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.12,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.23,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.38,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Elina Svitolina",
+      "odds": 2.3,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.67,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.62,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.65,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.65,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.57,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.65,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.7,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Elina Svitolina – Karolina Muchova",
+      "market": "Győztes: Karolina Muchova",
+      "odds": 1.62,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-11T20:00:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.83,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.8,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.71,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.71,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.64,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.71,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.81,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Aryna Sabalenka",
+      "odds": 1.8,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.14,
+      "source": "The Odds API / Betfair (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.05,
+      "source": "The Odds API / BetOnline.ag (nem Tippmix)",
+      "checked": "2026-11-10T14:56:52+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.12,
+      "source": "The Odds API / Unibet (NL) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.12,
+      "source": "The Odds API / Unibet (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.04,
+      "source": "The Odds API / PMU (FR) (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.12,
+      "source": "The Odds API / LeoVegas (SE) (nem Tippmix)",
+      "checked": "2026-11-10T14:57:29+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.08,
+      "source": "The Odds API / Matchbook (nem Tippmix)",
+      "checked": "2026-11-10T14:58:23+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    },
+    {
+      "sport": "Tenisz",
+      "match": "Aryna Sabalenka – Mirra Andreeva",
+      "market": "Győztes: Mirra Andreeva",
+      "odds": 2.0,
+      "source": "The Odds API / William Hill (nem Tippmix)",
+      "checked": "2026-11-10T14:58:25+00:00",
+      "kickoff": "2026-11-11T21:10:00+00:00"
+    }
+  ],
   "source": "The Odds API",
-  "quota_spent_this_run": 3,
-  "quota_remaining": 465,
+  "quota_spent_this_run": 4,
+  "quota_remaining": 461,
   "sports_checked": [
     "soccer_epl",
     "soccer_germany_bundesliga",
-    "soccer_italy_serie_a"
+    "soccer_italy_serie_a",
+    "tennis_wta_finals"
   ]
 }
